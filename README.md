@@ -14,8 +14,6 @@
   <p align="center">
     An awesome Login and register With Jwt ,Passwordhash, Refreshtoken Authentication Authorization.
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
-    <br />
   </p>
 </div>
 
