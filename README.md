@@ -13,7 +13,7 @@
   <h3 align="center">Advance Login</h3>
 
   <p align="center">
-    An awesome Login and register With Jwt ,Passwordhash, Refreshtoken Authentication Authorization.
+    An awesome Login and register With Jwt ,Passwordhash, Refreshtoken Authentication Authorization.you can directly use this code in any Angular, .net website for best authentication.
     <br />
   </p>
 </div>
