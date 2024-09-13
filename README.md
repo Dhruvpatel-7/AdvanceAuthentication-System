@@ -24,6 +24,8 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
+
+This Project Mainy use ful for those people Who dont want to waste more time in create login process with oll the security stuff they can just download and edit some code and 💥 boom its done.
 ## Overview
 
 This project is an authentication system designed to manage user registration, login, and secure sessions using JSON Web Tokens (JWT). It features mechanisms for password hashing and token refreshing to enhance security and user experience.
